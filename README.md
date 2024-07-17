@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 
 
-<!--
-**jbgalvo/jbgalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jb Galvo**, a web developer based in **Naga City, Camarines Sur Philippines**. 
 
-Here are some ideas to get you started:
+- 🛠️ Web Development, Custom Software Solutions, API Integrations and Technical Consultation.
+- 🔧 **Tech Stack:** Laravel, Inertia.js, Vue.js, Bootstrap CSS, Tailwind CSS, Git, MySQL
+- 📚 **Currently Learning:** TypeScript, React.js, Redux, Next.js
+- 📧 **Contact:** jbmgalvo16@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/jb-galvo/)
+- [Portfolio](https://jb-galvo.vercel.app/)
+- [Instagram](https://www.instagram.com/jbgalvo/)
+- [Facebook Page](https://www.facebook.com/jb.galvo/)
