@@ -12,4 +12,4 @@ I'm **Jb Galvo**, a web developer based in **Naga City, Camarines Sur Philippine
 - [LinkedIn](https://www.linkedin.com/in/jb-galvo/)
 - [Portfolio](https://jb-galvo.vercel.app/)
 - [Instagram](https://www.instagram.com/jbgalvo/)
-- [Facebook Page](https://www.facebook.com/jb.galvo/)
+
